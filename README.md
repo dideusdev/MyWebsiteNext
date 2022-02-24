@@ -1,94 +1,10 @@
-## theBag
+## DiDeus Dev<br>
+Esse site é um fork do [mopeim](https://github.com/hajhosein/theBag) feito com [Nextjs](https://nextjs.org/) e [MUI V5](https://mui.com/) que pode ser usado para Portfólios, Currículos, CVs e sites pessoais.
 
-theBag is a multipurpose template made by [Nextjs](https://nextjs.org/) and [MUI V5](https://mui.com/) which can be used for Portfolios, Resumes, CVs, and Personal websites.
+### Objetivo<br>
 
-## assets
+Decidi aprender nextJs "Hackeando" algo que já existe e excluindo e melhorando o mesmo para meu uso e necessidades. <br>
+Ao final disso espero estar melhor em JS, TypeScript, NextJs e ser um programador e estudante de Ciência da Computação um pouco melhor.
 
-### images
 
-1. Profile photo: by [Kyle Kempt](https://unsplash.com/@kjkempt17?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/john-doe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-### projects
-
-2. Photos in clothing photoshoot project:
-
-   - "woman in white crop top and pink blazer": Photo by [Joeyy Lee](https://unsplash.com/@joeyy_anne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-   - "woman in pink and white polka dot crop top and blue denim shorts": Photo by [Joeyy Lee](https://unsplash.com/@joeyy_anne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-   - "woman in pink and white floral crop top and blue denim jeans": Photo by [Joeyy Lee](https://unsplash.com/@joeyy_anne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-   - "woman in white spaghetti strap top and white skirt": Photo by [Joeyy Lee](https://unsplash.com/@joeyy_anne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-   - "woman in black tank top and black skirt holding black leather handbag": Photo by [Joeyy Lee](https://unsplash.com/@joeyy_anne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-3. Photos in modeling photoshoot project:
-
-   - "woman in gray dress sitting on stairs": Photo by [Joeyy Lee](https://unsplash.com/@joeyy_anne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-   - "woman in gray dress leaning on a stone column": Photo by [Joeyy Lee](https://unsplash.com/@joeyy_anne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-   - "woman in gray dress walking up stairs": Photo by [Joeyy Lee](https://unsplash.com/@joeyy_anne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-   - "woman in gray dress leaning on stair stone railing": Photo by [Joeyy Lee](https://unsplash.com/@joeyy_anne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-4. Photos in bride photoshoot project:
-
-   - "woman in white tank top wearing silver necklace": Photo by [Joeyy Lee](https://unsplash.com/@joeyy_anne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-   - "woman in white wedding dress standing on stairs": Photo by [Joeyy Lee](https://unsplash.com/@joeyy_anne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-   - "woman in white sleeveless top wearing silver necklace": Photo by [Joeyy Lee](https://unsplash.com/@joeyy_anne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-   - "woman in white wedding dress": Photo by [Joeyy Lee](https://unsplash.com/@joeyy_anne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-   - "woman in white tank top holding her hair": Photo by [Joeyy Lee](https://unsplash.com/@joeyy_anne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-   - "woman in white sleeveless dress": Photo by [Joeyy Lee](https://unsplash.com/@joeyy_anne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-   - "woman in white floral tank top with white flower on ear": Photo by [Joeyy Lee](https://unsplash.com/@joeyy_anne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-5. Photos in box water design project:
-
-   - "Four white water carton on a yellow table": Photo by [Boxed Water Is Better](https://unsplash.com/@boxedwater?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@boxedwater?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-   - "Two female athlete holding box water in their hands": Photo by [Boxed Water Is Better](https://unsplash.com/@boxedwater?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@boxedwater?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-   - "Some white water carton on blue table": Photo by [Boxed Water Is Better](https://unsplash.com/@boxedwater?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@boxedwater?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-   - "Boxed water is Better carton with waves drawn on it with a sharpie": Photo by [Boxed Water Is Better](https://unsplash.com/@boxedwater?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@boxedwater?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-6. Photos in hair mask tube design project:
-
-   - "White and green labeled soft hair mask tube": Photo by [Glenn Claire](https://unsplash.com/@glennclaire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@glennclaire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-   - "Black and White usb hair mask box and tube": Photo by [Glenn Claire](https://unsplash.com/@glennclaire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@glennclaire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-#### blog
-
-1. Photo in "How to shoot beautiful photos in sunlight?" blog post:
-
-   - "woman doing yoga meditation on brown parquet flooring": Photo by [Jared Rice](https://unsplash.com/@jareddrice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/blog-post-image?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-2. Photo in "How to be creative in design?" blog post:
-
-   - "person holding light bulb": Photo by [Diego PH](https://unsplash.com/@jdiegoph?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/blog-post-image?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-3. Photo in "21 tips that every desinger must know" blog post:
-
-   - "person holding ballpoint pen writing on white paper": Photo by [STIL](https://unsplash.com/@stilclassics?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/blog-post-image?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-4. Photo in "Tips for photographers when it's raining" blog post:
-   - "water droplets on glass window": Photo by [Frame Harirak](https://unsplash.com/@framemily?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/raindrop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-### icons
-
-1. HTML5 icon path by [Iconpacks](https://iconpacks.net/?utm_source=link-attribution&utm_content=6648)
-
-### illustrations
-
-1. Freelance vectors (both man and woman versions) by [Raftel Design](https://www.vecteezy.com/members/raftel) from [Vecteezy](https://www.vecteezy.com/free-vector/freelance)
-
----
-
-Made with ❤️ at [mopeim](https://mopeim.com)

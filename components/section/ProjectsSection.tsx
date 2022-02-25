@@ -68,7 +68,7 @@ const ProjectsSection: React.FunctionComponent<ProjectsSectionProps> = (
         textAlign="center"
         marginTop="20%"
       >
-        My Projects
+        Meus Projetos
       </Typography>
       <Box
         color="text.secondary"

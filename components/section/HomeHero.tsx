@@ -26,7 +26,7 @@ const HomeHero: React.FunctionComponent<HomeHeroProps> = (props) => {
         DiDeus
       </Typography>
       <Box color="text.secondary">
-        <TypingEffect staticText="Eu estou desenvolvendo" text={['websites modernos', 'lojas virtuais']} />
+        <TypingEffect staticText="Eu estou desenvolvendo" text={['websites', 'lojas virtuais', 'Blogs']} />
       </Box>
       <ScrollDown
         color={info.main}

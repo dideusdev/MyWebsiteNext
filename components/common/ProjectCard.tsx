@@ -120,7 +120,7 @@ const ProjectCard: React.FunctionComponent<ProjectCardProps> = (props) => {
           sx={{ marginLeft: 'auto' }}
           endIcon={<ChevronRightIcon />}
         >
-          more
+          Ver Mais
         </CustomButton>
       </CardActions>
     </CustomCard>

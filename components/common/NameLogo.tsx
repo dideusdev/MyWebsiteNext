@@ -40,14 +40,14 @@ const NameLogo: React.FunctionComponent<NameLogoProps> = (props) => {
           backgroundColor: bgColor,
           borderRadius: bgBorder,
           display: 'flex',
-          height: 30,
-          width: 30,
+          height: 20,
+          width: 4,
         }}
       />
       <p
         style={{
           color,
-          fontSize,
+          fontSize: 20,
           fontWeight: 'bold',
           left: 10,
           position: 'absolute',

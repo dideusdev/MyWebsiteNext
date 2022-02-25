@@ -42,14 +42,14 @@ const Skills: React.FunctionComponent<SkillsProps> = (props) => {
       Icon: (
         <PhotoshopIcon bgColor="white" textColor="tomato" fontSize="large" />
       ),
-      title: 'Photoshop',
+      title: 'Habilidades Socioemocionais',
       progressValue: 78,
     },
     {
       Icon: (
         <LightroomCCIcon bgColor="white" textColor="tomato" fontSize="large" />
       ),
-      title: 'Lightroom',
+      title: 'Gestão e Liderança',
       progressValue: 83,
     },
     {
@@ -60,7 +60,7 @@ const Skills: React.FunctionComponent<SkillsProps> = (props) => {
           fontSize="large"
         />
       ),
-      title: 'Illustrator',
+      title: 'Habilidades Técnicas',
       progressValue: 97,
     },
   ];
@@ -69,7 +69,7 @@ const Skills: React.FunctionComponent<SkillsProps> = (props) => {
     <>
       <CustomContainer id="skills" maxWidth={containerMaxWidth}>
         <Typography component="h2" variant="h4" textAlign="center">
-          My Skills
+          Minhas Habilidades em Desenvolvimento
         </Typography>
         <ContainerGrid marginTop="2rem">
           {skills.map((skill, index) => (

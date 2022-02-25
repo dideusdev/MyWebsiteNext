@@ -127,14 +127,13 @@ const About: React.FunctionComponent<AboutProps> = (props) => {
               sx={{ boxShadow: 'none', height: '100%', position: 'relative' }}
             >
               <Typography component="h2" variant="h5" fontWeight="bold">
-                A bit about me
+                Um pouco sobre mim
               </Typography>
               <CardContent>
                 <Typography component="p" variant="body1">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Dolorum exercitationem voluptate sapiente necessitatibus alias
-                  rerum voluptates accusamus tenetur, eaque natus possimus aut
-                  magni odio saepe eligendi laudantium. Enim, illo quod.
+                Pode me chamar de “DiDeus”. Estou desenvolvedor web freelancer, passando um tempo em São Paulo e cursando faculdade de Ciência da Computação.
+                Estou na área de tecnologia a 6 anos. Atuando em diversos departamentos desde design, administração e programação. 
+                Amo resolver problemas de tecnologia e estudar sobre pessoas.
                 </Typography>
                 <Collapse
                   in={showMore}

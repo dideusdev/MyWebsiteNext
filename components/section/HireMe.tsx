@@ -35,7 +35,7 @@ const HireMe: React.FunctionComponent<HireMeProps> = (props) => {
       <CustomContainerGrid>
         <CustomGridItem item md order={{ xs: 2, md: 1 }}>
           <Typography component="h2" variant="h4" textAlign="center">
-            I am available as freelancer.
+            Como posso te ajudar hoje?
           </Typography>
           <ButtonLink
             color="info"
@@ -44,7 +44,7 @@ const HireMe: React.FunctionComponent<HireMeProps> = (props) => {
             sx={{ marginTop: '2rem' }}
             variant="contained"
           >
-            Hire me
+            Vamos Conversar
           </ButtonLink>
         </CustomGridItem>
         <CustomGridItem

@@ -34,12 +34,12 @@ const ContactForm: React.FunctionComponent<ContactFormProps> = (props) => {
       <CardHeader
         title={
           <Typography color="primary" component="h2" variant="h5">
-            Contact form
+            Fale Comigo
           </Typography>
         }
         subheader={
           <Typography component="p" variant="subtitle1" color="text.disabled">
-            Lorem ipsum dolor sit amet.
+            Precisando de ajuda? Vamos conversar!
           </Typography>
         }
       />
@@ -72,8 +72,8 @@ const ContactForm: React.FunctionComponent<ContactFormProps> = (props) => {
                   fullWidth
                   helperText={touched.name && errors.name && errors.name}
                   id="contact-form-name"
-                  label={toCapitalize('name')}
-                  name="name"
+                  label={toCapitalize('nome')}
+                  name="nome"
                   onBlur={handleBlur}
                   onChange={handleChange}
                   sx={{ marginBottom: '1rem' }}
@@ -102,8 +102,8 @@ const ContactForm: React.FunctionComponent<ContactFormProps> = (props) => {
                   helperText={
                     touched.subject && errors.subject && errors.subject
                   }
-                  label={toCapitalize('subject')}
-                  name="subject"
+                  label={toCapitalize('assunto')}
+                  name="assunto"
                   id="contact-form-subject"
                   onBlur={handleBlur}
                   onChange={handleChange}
@@ -119,11 +119,11 @@ const ContactForm: React.FunctionComponent<ContactFormProps> = (props) => {
                     touched.message && errors.message && errors.message
                   }
                   id="contact-form-message"
-                  label={toCapitalize('message')}
+                  label={toCapitalize('mensagem')}
                   maxRows={6}
                   minRows={4}
                   multiline
-                  name="message"
+                  name="mensagem"
                   onBlur={handleBlur}
                   onChange={handleChange}
                   required
@@ -137,7 +137,7 @@ const ContactForm: React.FunctionComponent<ContactFormProps> = (props) => {
               sx={{ justifyContent: 'flex-end', margin: '1rem', padding: 0 }}
             >
               <CustomButton onClick={() => handleReset()} type="reset">
-                Reset
+                Resetar
               </CustomButton>
               <CustomButton
                 onClick={() => {
@@ -151,7 +151,7 @@ const ContactForm: React.FunctionComponent<ContactFormProps> = (props) => {
                 type="submit"
                 variant="contained"
               >
-                Submit
+                Enviar
               </CustomButton>
             </CardActions>
           </>

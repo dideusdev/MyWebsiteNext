@@ -26,10 +26,10 @@ const ProjectDetails: React.FunctionComponent<ProjectDetailsProps> = (
         {title}
       </Typography>
       <Typography component="p" variant="body1" sx={{ marginBottom: '0.5rem' }}>
-        Read Time: {readTime} min
+        Tempo de Leitura: {readTime} min
       </Typography>
       <Typography component="p" variant="body1" sx={{ marginBottom: '0.5rem' }}>
-        Published at {shortDate}
+        Publicação: {shortDate}
       </Typography>
       <Box alignItems="center" display="flex">
         {category.map((category, index) => (

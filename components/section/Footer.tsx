@@ -72,7 +72,7 @@ const Footer: React.FunctionComponent<FooterProps> = (props) => {
         </CardContent>
       </CustomCard>
       <Typography component="p" variant="body1" textAlign="center">
-        Made with ❤️ at <TextLink href="https://mopeim.com">mopeim</TextLink>
+        Made with ❤️ at <TextLink href="https://dideus.dev">DiDeus Dev</TextLink>
       </Typography>
     </>
   );

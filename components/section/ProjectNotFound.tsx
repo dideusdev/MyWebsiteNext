@@ -13,7 +13,7 @@ const ProjectNotFound: React.FunctionComponent<ProjectNotFoundProps> = (
   return (
     <CenterBox flexDirection="column">
       <Typography component="h2" variant="h4">
-        Sorry, couldn&apos;t find the project.
+        Desculpe, couldn&apos;t find the project.
       </Typography>
       <Typography
         color="text.secondary"
@@ -21,7 +21,7 @@ const ProjectNotFound: React.FunctionComponent<ProjectNotFoundProps> = (
         marginTop="1rem"
         variant="body1"
       >
-        You can check projects page to see all project.
+        Você pode verificar a página de projetos para ver todos os projetos.
       </Typography>
     </CenterBox>
   );

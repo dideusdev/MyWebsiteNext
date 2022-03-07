@@ -20,10 +20,10 @@ const HomeHero: React.FunctionComponent<HomeHeroProps> = (props) => {
   return (
     <CenterBox flexDirection="column">
       <Typography component="p" variant="h5" color="text.secondary">
-        Olá, pode me chamar de
+        Web Design / Front End / Freelancer
       </Typography>
-      <Typography component="h1" variant="h2" fontWeight="bold">
-        DiDeus
+      <Typography component="h1" variant="h2" fontWeight="bold" align='center'>
+        Serviços e soluções
       </Typography>
       <Box color="text.secondary">
         <TypingEffect staticText="Eu estou desenvolvendo" text={['websites', 'lojas virtuais', 'Blogs']} />

@@ -31,7 +31,7 @@ import Projects from 'pages/projects';
 interface CustomAppBarProps {}
 
 const CustomAppBarRoot = styled(AppBar)<AppBarProps>(({ theme }) => ({
-  backgroundColor: 'transparent',
+  backgroundColor: '#071a2f',
   boxShadow: 'none',
 }));
 
@@ -86,7 +86,7 @@ const CustomAppBar: React.FunctionComponent<CustomAppBarProps> = (props) => {
           <CustomToolbar>
             <NameLogo
               bgColor="white"
-              color="#383838"
+              color="#fff"
               name="DiDeus Dev"
               onClick={() => router.push('/')}
             />

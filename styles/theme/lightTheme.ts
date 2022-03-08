@@ -27,12 +27,12 @@ const lightTheme = createTheme({
       contrastText: '#FF6347',
     },
     background: {
-      default: '#FF6347',
+      default: '#001e3c',
       paper: '#fff',
     },
     text: {
       primary: '#ffffff',
-      secondary: '#383838',
+      secondary: '#3399ff',
       disabled: '#777777',
     },
   },
